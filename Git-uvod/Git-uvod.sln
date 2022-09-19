@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Git-uvod", "Git-uvod\Git-uvod.csproj", "{BEFFC383-E0CB-49FF-A428-F67790862D1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEFFC383-E0CB-49FF-A428-F67790862D1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEFFC383-E0CB-49FF-A428-F67790862D1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEFFC383-E0CB-49FF-A428-F67790862D1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEFFC383-E0CB-49FF-A428-F67790862D1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {016FB95F-A68A-4C22-BD33-0ADDCB1B7F9C}
+	EndGlobalSection
+EndGlobal
