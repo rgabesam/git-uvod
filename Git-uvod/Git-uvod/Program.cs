@@ -11,6 +11,7 @@ namespace Git_uvod
 		static void Main(string[] args)
 		{
 			Console.WriteLine("Hello world");
+			Console.WriteLine("Second hello world ");
 		}
 	}
 }
